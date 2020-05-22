@@ -1,0 +1,12 @@
+{
+    "huobi": {
+        "access_key": "9f9bcec4-e480f2f8-ntmuw4rrsr-6803f",
+        "secretkey": "a0032e6c-a05c9977-f23c9e29-e597d",
+        "account_id": "replace_me",
+        "account_id_spot": "7039618",
+	"account_id_margin": "12611768",
+	"account_id_otc": "10259206",
+	"account_id_supermargin": "12563021",
+        "trade_password": "replace_me"
+    }
+}
