@@ -1,10 +1,10 @@
 {
-  "name": "huobipro",
+  "name": "huobihuobi",
   "version": "1.0.0",
-  "description": "",
-  "main": "test.js",
+  "description": "20201114",
+  "main": "server_m1.1_branch.js",
   "scripts": {
-    "start": "ENV=dev ./node_modules/.bin/nodemon --harmony test.js",
+    "start": "ENV=dev ./node_modules/.bin/nodemon --harmony server_m1.1_branch.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "linfeng.dong",
@@ -13,14 +13,29 @@
     "bluebird": "^3.3.1",
     "config": "^1.28.1",
     "crypto-js": "^3.1.9-1",
+    "express": "^4.17.1",
     "moment": "^2.13.0",
+    "mysql": "^2.18.1",
     "pako": "^1.0.6",
+    "q": "^1.5.1",
     "redis": "^2.4.2",
     "request": "^2.72.0",
     "sound-play": "^1.0.5",
-    "ws": "^3.2.0"
+    "ws": "^3.3.3"
   },
   "execMap": {
     "js": "node –harmony"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xinyuex0312/HuobiScript.git"
+  },
+  "keywords": [
+    "xinyuex"
+  ],
+  "bugs": {
+    "url": "https://github.com/xinyuex0312/HuobiScript/issues"
+  },
+  "homepage": "https://github.com/xinyuex0312/HuobiScript#readme"
 }
