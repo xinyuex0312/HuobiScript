@@ -4,7 +4,7 @@
 バックエンドメイン言語：node.js
 ウェブページ（フロント）：html,vue.js,javascript
 
-ウェブページurl: http://45.32.47.119/Huobi/main.html
+ウェブページurl: https://www.jorgeshub.xyz/Huobi/main.html
 
 server_m_1.1.js -- current used version of backend code
 
